@@ -2,22 +2,22 @@
 # Python 3.8+ required
 
 # Core Data Science Libraries
-pandas>=1.5.0
-numpy>=1.21.0
+pandas
+numpy
 
 # Machine Learning
-scikit-learn>=1.1.0
-xgboost>=1.6.0
+scikit-learn
+xgboost>
 
 # Data Visualization
-matplotlib>=3.5.0
-seaborn>=0.11.0
+matplotlib
+seaborn
 
 # Model Serialization
-joblib>=1.1.0
+joblib
 
 # Jupyter Notebook (optional, for interactive analysis)
-jupyter>=1.0.0
+jupyter
 
 
 # System utilities

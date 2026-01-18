@@ -19,5 +19,6 @@ joblib>=1.1.0
 # Jupyter Notebook (optional, for interactive analysis)
 jupyter>=1.0.0
 
+
 # System utilities
-warnings
+# Note: warnings is a built-in Python module and doesn't need to be installed

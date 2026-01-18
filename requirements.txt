@@ -7,7 +7,7 @@ numpy
 
 # Machine Learning
 scikit-learn
-xgboost>
+xgboost
 
 # Data Visualization
 matplotlib
